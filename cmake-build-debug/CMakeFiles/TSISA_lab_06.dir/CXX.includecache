@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mihail/Documents/workspace/02_TSISA/TSISA_lab_06/main.cpp
+iostream
+-
+vector
+-
+random
+-
+cmath
+-
+tuple
+-
+iomanip
+-
+fstream
+-
+

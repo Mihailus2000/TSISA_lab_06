@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/TSISA_lab_06.dir/main.cpp.o  -o TSISA_lab_06 

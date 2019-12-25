@@ -1,0 +1,3 @@
+/home/mihail/Documents/workspace/02_TSISA/TSISA_lab_06/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mihail/Documents/workspace/02_TSISA/TSISA_lab_06/cmake-build-debug/CMakeFiles/TSISA_lab_06.dir
+/home/mihail/Documents/workspace/02_TSISA/TSISA_lab_06/cmake-build-debug/CMakeFiles/edit_cache.dir
